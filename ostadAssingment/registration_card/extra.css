@@ -1,0 +1,80 @@
+body{
+    display: flex;
+    align-items: center;
+    background-color: blueviolet;
+    justify-content: center;
+}
+.container{
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    width: 60%;
+    margin-top:100px;
+
+}
+.registration{
+    text-align: center;
+   
+}
+
+form .container2{
+    display: flex;
+    flex-wrap: wrap;
+ 
+   
+   
+}
+
+
+ 
+
+form .container2 .inputbox{
+    width: calc(100%/2 - 20px);
+    margin: 10px;
+    
+}
+
+form .container2 .inputbox input{
+    height: 45px;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 10px;
+    
+   
+}
+
+
+.cancle{
+    height: 40px;
+    width: 200px;
+    border-radius: 8px;
+    background-color: orangered;
+    color: white;
+    border: 0cap;
+}
+
+.submit{
+    height: 40px;
+    width: 200px;
+    border-radius: 8px;
+    background-color: blueviolet;
+    color: white;
+    border: 0cap;
+    
+    
+}
+
+.radio .inputtext{
+    display: flex;
+    gap: 10px;
+    margin-left: 15px;
+
+  }
+  .a{
+margin-left: 10px;
+  }
+.b{
+    margin-left: 10px;
+}
+  
+
